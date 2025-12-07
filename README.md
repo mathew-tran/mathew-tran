@@ -6,6 +6,7 @@ I’m Mathew Tran, a game industry professional with 10+ years of experience acr
 I now focus on 3D modeling, specializing in low-poly assets for games.
 
 [Linkedin](https://www.linkedin.com/in/mathewtran/)
+
 [Artworks](https://mathew-tran.github.io/mathew-tran/)
 
 I am currently looking into gigs as a 3D Modeller doing low poly art.
