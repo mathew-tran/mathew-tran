@@ -6,7 +6,5 @@ I now focus on 3D modeling, specializing in low-poly assets for games.
 
 [Artworks](https://mathew-tran.github.io/mathew-tran/)
 
-I am currently looking into gigs as a 3D Modeller doing low poly art.
-
 If you are interested, please DM me on mathew.tran.dev@gmail.com
 
