@@ -1,7 +1,11 @@
 # Who Am I?
-I’m Mathew Tran, a game industry professional with 10+ years of experience across QA, programming, and design. 
+I’m Mathew Tran, a game industry professional with 10+ years of experience in the game dev industry.
 
-[Linkedin](https://www.linkedin.com/in/mathewtran/)
+I am skilled in making Godot Games!
+[Itch.io](https://ichit.itch.io)
+
 
 If you are interested, please DM me on mathew.tran.dev@gmail.com
 
+
+[Linkedin](https://www.linkedin.com/in/mathewtran/)
